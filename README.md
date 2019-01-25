@@ -102,6 +102,8 @@ A Number which specifies the maximum number of values allowed within the Queue.
 
 ---
 
+## Prototype Methods
+
 ### `Queue.prototype.@@iterator`
 
 *Iterator*
@@ -342,6 +344,8 @@ Stack.limit
 A Number which specifies the maximum number of values allowed within the Stack.
 
 ---
+
+## Prototype Methods
 
 ### `Stack.prototype.@@iterator`
 
