@@ -1,0 +1,34 @@
+{
+	"name": "queuestack",
+	"version": "1.0.0",
+	"description": "Queue and Stack classes",
+	"keywords": [
+		"adt",
+		"abstract-data-type",
+		"queue",
+		"stack",
+		"datastructure",
+		"data-structure"
+	],
+	"homepage": "https://github.com/Floofies/QueueStack",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Floofies/QueueStack.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Floofies/QueueStack/issues"
+	},
+	"devDependencies": {
+		"jasmine": ""
+	},
+	"scripts": {
+		"test": "jasmine",
+		"prepublish": "npm test"
+	},
+	"main": "index.js",
+	"author": "Dani Glore @Floofies",
+	"license": "MIT",
+	"dependencies": {
+		"listlib": ""
+	}
+}
