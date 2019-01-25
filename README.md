@@ -29,12 +29,12 @@ Queue & Stack classes.
 You can import the constructors like so:
 
 ```JavaScript
-const queuestack = require("queuestack");
-const Queue = queuestack.Queue;
-const Stack = queuestack.Stack;
+const queuestacklib = require("queuestacklib");
+const Queue = queuestacklib.Queue;
+const Stack = queuestacklib.Stack;
 
 // Using ES6 Destructuring Assignment
-const {Queue, Stack} = require("queuestack");
+const {Queue, Stack} = require("queuestacklib");
 ```
 
 # `Queue`
