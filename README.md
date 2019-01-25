@@ -1,6 +1,8 @@
 # QueueStack
 Queue & Stack classes.
 
+[![NPM](https://nodei.co/npm/queuestacklib.png)](https://nodei.co/npm/queuestacklib/)
+
 - [`Queue`](#queue)
 	- [Instance Properties](#instance-properties)
 		- [`size`](#queuesize)
